@@ -5,16 +5,6 @@
 杞欢鐗堟湰锛氭墍鏈�
 鑴氭湰浣滆€咃細ios楦＄
 TG棰戦亾缇わ細https://t.me/iosapp520
-^http[s]?:\/\/openapi\.mysteel\.com/v5/getAdv.htm url reject
-^http[s]?.+ulogs.umeng.com url reject
-^http[s]?.+gslbali.ximalaya.com url reject
-^http[s]?.+adse.ximalaya.com url reject
-^http[s]?.+gslbtx.ximalaya.com url reject
-^http[s]?.+location.ximalaya.com url reject
-^http[s]?.+passport.ximalaya.com url reject
-^http[s]?.+adbehavior.ximalaya.com url reject
-^http[s]?.+ad.ximalaya.com url reject
-^http[s]?.+audid-api.taobao.com url reject
 
 
 浣跨敤澹版槑锛氣殸锔忔鑴氭湰浠呬緵瀛︿範涓庝氦娴侊紝璇峰嬁杞浇涓庤穿鍗栵紒鈿狅笍鈿狅笍鈿狅笍
